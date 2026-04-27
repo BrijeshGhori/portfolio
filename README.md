@@ -33,7 +33,7 @@ It features smooth UI, structured sections, and a clean modern aesthetic inspire
 - Balancing **design + development**
 
 ## 🔗 Live Demo
-(Add your GitHub Pages / Netlify link here)
+https://brijeshghori.github.io/portfolio/
 
 ## 🎯 Future Improvements
 - Add full responsiveness (mobile-first)
